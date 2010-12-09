@@ -1,0 +1,2 @@
+gem "erlectricity", ">=1.1.1"
+gem "tinder", ">=1.4.3"
