@@ -21,4 +21,11 @@ its haskell
 2. When you can get it installed, its a pain in the ass
 3. can't use it on windows (this is of course considered a feature)
 
+### installing it
+
+best to install this on a virtual machine or a server with a fresh version of ubuntu or debian. If your running with a ruby install from apt then [this guide](https://github.com/mwotton/Hubris/wiki/Installation-on-a-fresh-install-of-Ubuntu-10.04-(Lucid-Lynx)) works 
+
+
+### examples
+
 
